@@ -63,6 +63,8 @@ These are the steps to generate `.apk`, `.aab` files
 3. Go to the android folder
 4. Execute `./gradlew assemble[Env][BuildType]`
 
+- Get the apk from 'android/app/release/app-release.apk'
+
 Note: You have three options to execute the project
 `assemble:` Generates an apk that you can share with others.
 `install:` When you want to test a release build on a connected device.
