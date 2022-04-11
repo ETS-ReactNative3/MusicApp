@@ -3,7 +3,7 @@
 A mobile phone application that allows you to search music files from apple itunes API and play them.It also allows you to add your favourite songs to your playslist and play them whenever you want.
 ## Prerequisites
 
-- [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
+- [Node.js > 12](https://nodejs.org)
 - [Watchman](https://facebook.github.io/watchman)
 - [Xcode 12](https://developer.apple.com/xcode)
 - [Cocoapods 1.10.1](https://cocoapods.org)
