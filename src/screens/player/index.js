@@ -77,7 +77,7 @@ const App = (props) => {
     }
 
     const onChangeSlider = async (val) => {
-        console.log('--seek value--', val);
+        // console.log('--seek value--', val);
         await TrackPlayer.play();
         await TrackPlayer.seekTo(val);
         setValue(parseInt(val)) 
